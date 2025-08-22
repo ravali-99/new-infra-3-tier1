@@ -41,4 +41,3 @@ resource "aws_launch_template" "swiggy-app-template" {
     ignore_changes  = all
   }
 }
-
